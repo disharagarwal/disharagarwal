@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @disharagarwal
 - 👀 I’m interested in programming
-- 📫 How to reach me mail me at dragarwal372@gamil.c0m
+- 📫 How to reach me mail me at dragarwal372@gamil.com
 
 <!---
 disharagarwal/disharagarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
